@@ -19,6 +19,10 @@ body {
     display: flex;
 }
 
+.buttons {
+    text-align: center;
+}
+
 .flex-child {
     flex: 1;
     border: 5px solid black;
@@ -27,8 +31,4 @@ body {
 
 .flex-child:first-child {
     margin-right: 20px;
-}
-
-.buttons {
-    text-align: center;
 }
