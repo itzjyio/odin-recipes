@@ -10,6 +10,8 @@ img {
 body {
     background-color: rgb(131, 189, 247);
     font-family: Arial, Helvetica, sans-serif;
+    margin-left: 150px;
+    margin-right: 150px;
 }
 .description {
     text-align: center;
